@@ -277,7 +277,7 @@ In a Python program, everything after a hash mark is ignored, and considered a c
 name = "Roger" # this is an inline comment
 ```
 
-### Indentatio
+### Indentation
 
 Indentation in Python is meaningful.
 
