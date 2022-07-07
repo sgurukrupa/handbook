@@ -391,7 +391,7 @@ We can divide operators based on the kind of operation they perform:
 
 plus some interesting ones like `is` and `in`.
 
-#### Assignment operato
+#### Assignment operator
 
 The assignment operator is used to assign a value to a variable:
 
